@@ -1,7 +1,5 @@
 # Arct Cloud
 
-NVMe VPS for Linux and Windows Server in Europe, the US and Japan.
-
 Arct Cloud is operated by Arct Technology LLC. Cloud servers use AMD EPYC or Ryzen processors, with NVMe storage and DDoS protection on every plan.
 
 - [Website](https://www.arct.cloud/)
