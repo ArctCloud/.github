@@ -1,6 +1,8 @@
 # Arct Cloud
 
-Arct Cloud is operated by Arct Technology LLC. Cloud servers use AMD EPYC or Ryzen processors, with NVMe storage and DDoS protection on every plan.
+Simple cloud for builders. VPS hosting with AMD EPYC & Ryzen, NVMe storage and DDoS protection.
+
+Arct Cloud is operated by Arct Technology LLC.
 
 - [Website](https://www.arct.cloud/)
 - [Plans and pricing](https://www.arct.cloud/pricing)
